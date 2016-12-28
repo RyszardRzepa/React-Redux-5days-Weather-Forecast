@@ -11,4 +11,5 @@ git clone https://github.com/RyszardRzepa/React-Redux-5days-Weather-Forecast.git
 Weather API from: http://openweathermap.org/forecast5
 
 Screenshot:
-![screenShot]("https://github.com/RyszardRzepa/React-Redux-5days-Weather-Forecast/blob/master/Screenshots/screenShot.png")
+
+![screenShot](https://github.com/RyszardRzepa/React-Redux-5days-Weather-Forecast/blob/master/Screenshots/screenShot.png)

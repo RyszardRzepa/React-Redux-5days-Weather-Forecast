@@ -1,7 +1,7 @@
 {
-  "name": "redux-simple-starter",
+  "name": "5 days weather forecast",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "React-Redux simple weather application",
   "main": "index.js",
   "repository": "git@github.com:RyszardRzepa/React-Redux-5days-Weather-Forecast.git",
   "scripts": {
